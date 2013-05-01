@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ArcGIS4Android">
+    <CLASSES>
+      <root url="file://C:/Android/ArcGIS4Android" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Android/ArcGIS4Android" recursive="false" />
+  </library>
+</component>

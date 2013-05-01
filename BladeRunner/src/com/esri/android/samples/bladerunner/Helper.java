@@ -15,7 +15,6 @@ import com.esri.core.renderer.UniqueValueRenderer;
  */
 public class Helper {
 	ArcGISFeatureLayer teamareasFeatureLayer;
-
 	/**
 	 * Method createBlocksFeatureLayer.
 	 * @return ArcGISFeatureLayer
@@ -29,7 +28,7 @@ public class Helper {
 				layerOptions);
 		blocksFeatureLayer.setName(BladeRunnerApplication.blocksName);
 		return blocksFeatureLayer;
-	}
+    }
 
 	/**
 	 * Method createWindFarmZonesFeatureLayer.
